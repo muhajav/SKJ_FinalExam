@@ -339,7 +339,10 @@ This project is created for educational purposes as part of a Final Project Exam
 
 ## 👤 Author
 
-Created for Final Project Exam - Network Traffic Monitoring and Logging System
+Muhammad Javier - 24/546674/PA/23210
+Khrisna Dwi Haryanto - 24/546482/PA/23198
+Aufa Sultan Majid Syach Putra Yuliyanto - 24/532890/PA/22550
+Yusuf Imantaka Bastari -  24/532731/PA/22530
 
 ---
 
