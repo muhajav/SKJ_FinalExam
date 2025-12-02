@@ -1,0 +1,25 @@
+# Network Traffic Monitoring and Logging System
+# Python Dependencies
+
+# Wireshark Python wrapper for packet capture and analysis
+pyshark>=0.6
+
+# Note: The following are standard library modules and don't need installation:
+# - os (standard library)
+# - sys (standard library)
+# - subprocess (standard library)
+# - socket (standard library)
+# - ipaddress (standard library)
+# - argparse (standard library)
+# - time (standard library)
+# - datetime (standard library)
+# - threading (standard library)
+# - collections (standard library)
+# - termios (Linux standard library, not available on Windows)
+# - tty (Linux standard library, not available on Windows)
+
+# System Requirements (must be installed separately):
+# - Wireshark/tshark: https://www.wireshark.org/download.html
+# - libpcap (Linux) or Npcap (Windows): https://npcap.com/
+# - Root/Administrator privileges for packet capture
+
